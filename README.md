@@ -4,15 +4,15 @@
 
 [![Travis](https://img.shields.io/travis/driftyco/ng-cordova.svg?style=flat)](https://travis-ci.org/driftyco/ng-cordova) [![Bower](https://img.shields.io/badge/bower-ngCordova-FFCC2F.svg?style=flat)](http://bower.io/search/?q=ngCordova)
 
-### Cordova with AngularJS Goodness
+### Cordova dengan kebaikan AngularJS 
 
 
 [<img src="http://ionicframework.com/img/ngcordova-context-logo.png" alt="ngCordova Logo" width="210px" height="210px" />](http://ngcordova.com/)
 
 
-ngCordova gives you simple AngularJS wrappers for a massive amount of Cordova plugins. Check out the list below for all of the available plugins, and create an issue for a new request.
+ngCordova memberi mu wraper AngularJS  untuk sejumlah besar plugin Cordova. Periksa daftar di bawah untuk semua plugin yang tersedia, dan menciptakan masalah bagi permintaan baru..
 
-Created by the [Ionic Framework](http://ionicframework.com/) team and the community.
+Created by the [Ionic Framework](http://ionicframework.com/) team and the community. (Dibuat oleh Tim Ionic Framework dan komunitas)
 
 | RESOURCE | LINK |
 |------------|---------|
@@ -23,9 +23,9 @@ Created by the [Ionic Framework](http://ionicframework.com/) team and the commun
 | **Custom build** | [ngCordova.com/build](http://ngcordova.com/build/) |
 
 
-## Installation
+## Installation (Installasi)
 
-Install manually, or from bower:
+Install manually, or from bower: (Install manual atau dari bower)
 
 ```bash
 $ bower install ngCordova
@@ -107,7 +107,7 @@ $ bower install ngCordova
 
 `* official Apache Cordova Plugin`
 
-## Authors
+## Authors (Autor)
 
 #### Max Lynch
 
@@ -126,6 +126,7 @@ $ bower install ngCordova
  - https://github.com/gortok
 
 
-## LICENSE
+## LICENSE (Lisensi)
 
 ngCordova is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
+(ngCordova dilisensi di bawah MIT Open Source License. Untuk informasi lebih lanjut, lihat file LICENSE di repository ini)
